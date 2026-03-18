@@ -13,6 +13,7 @@
     "prerequisites": [
     ],
     "related": [
-        "cli-present-working-directory"
+        "cli-present-working-directory",
+        "cli-command-anatomy"
     ]
 }
