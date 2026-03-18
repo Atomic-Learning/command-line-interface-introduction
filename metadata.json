@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Command Line Interface Introduction",
+    "slug": "command-line-interface-introduction",
+    "description": "An introduction to the concept of command line interfaces, including examples of CLIs and basic motivation.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "software-engineering",
+        "programming"
     ],
-    "duration": 0,
+    "duration": 4,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "cli-present-working-directory"
     ]
 }
