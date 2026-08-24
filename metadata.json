@@ -13,7 +13,7 @@
     "prerequisites": [
     ],
     "related": [
-        "cli-present-working-directory",
+        "programming-current-working-directory",
         "cli-command-anatomy",
         "vs-code-terminal"
     ]
